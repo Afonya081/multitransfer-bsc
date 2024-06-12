@@ -4,6 +4,8 @@
 
 // SPDX-License-Identifier: MIT
 
+// Pls read README file before use this code
+
 pragma solidity = 0.8.20;
 
 interface IBEP20 {
